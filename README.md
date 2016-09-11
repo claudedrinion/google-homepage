@@ -1,2 +1,3 @@
-# google-homepage
+google-homepage
 Just a test to see how Github works...
+The Odin Project
